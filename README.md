@@ -3,7 +3,7 @@
 How to use:
 
 firts install ppadb 
-[original repo](https://github.com/Swind/pure-python-adb)
+[original repo here](https://github.com/Swind/pure-python-adb)
 ```bash
 pip install -U pure-python-adb
 ```
