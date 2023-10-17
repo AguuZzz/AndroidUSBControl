@@ -36,6 +36,7 @@ if devices:
 else:
     print("No device found")
     print("-----------------------------------------------------------")
+    exit()
 
 option = input("""Select a option:
 1- Send a rickroll         2-Send a text
@@ -65,4 +66,4 @@ elif option == "2":
     texto()
 else:
     print("Error, exit and try again")
-    exit
+    exit()
