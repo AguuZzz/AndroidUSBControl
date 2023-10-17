@@ -16,7 +16,7 @@ With this repo you can use some scripts to "trolling" your friend's phones
 
 - **Use the phone's keyboard** To send some messages or search something on google
 
-- **Open apps** Open some apps, like whatsapp, telegram, the camera app, google, etc
+- **Open apps** Open some apps, like whatsapp, telegram, the camera app, google, etc (in a future)
 
 ## A simple script made 4 AguuZzz, give me a star to support me
 ![Dance dance dance](https://media.tenor.com/p_4UALhVSkIAAAAd/pk-xd.gif)
