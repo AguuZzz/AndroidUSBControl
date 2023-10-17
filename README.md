@@ -2,7 +2,7 @@
 
 How to use:
 
-firts install ppadb 
+firts install ppadb (you need to have py 3.6+)
 [original repo here](https://github.com/Swind/pure-python-adb)
 ```bash
 pip install -U pure-python-adb
